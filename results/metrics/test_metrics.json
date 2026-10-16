@@ -1,0 +1,8 @@
+{
+  "selected_model": "dropout_128",
+  "test_accuracy": 0.9886000156402588,
+  "test_loss": 0.03368433192372322,
+  "macro_f1": 0.9886182412680771,
+  "errors": 114,
+  "test_n": 10000
+}

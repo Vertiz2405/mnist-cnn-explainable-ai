@@ -1,0 +1,25 @@
+{
+  "selected_model": "dropout_128",
+  "checkpoint": "results/models/cnn_selected_for_xai.keras",
+  "best_epoch": 3,
+  "val_loss": 0.043821316212415695,
+  "val_accuracy": 0.9873999953269958,
+  "input_shape": [
+    28,
+    28,
+    1
+  ],
+  "preprocessing": "float32 / 255.0",
+  "classes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}
