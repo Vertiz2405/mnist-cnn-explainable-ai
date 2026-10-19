@@ -1,0 +1,13 @@
+{
+  "test_images": 10000,
+  "test_accuracy": 0.9886,
+  "correct_predictions": 9886,
+  "incorrect_predictions": 114,
+  "macro_f1": 0.9886182412680771,
+  "weighted_f1": 0.9886047786027109,
+  "accuracy_matches_reference": true,
+  "confusion_matrix_matches_reference": true,
+  "checkpoint_sha256": "610103acd2a6ff353815c6861b0baca1e31060fd9e69503631ac00226579dbb2",
+  "model_parameters": 421642,
+  "tensorflow_version": "2.20.0"
+}
